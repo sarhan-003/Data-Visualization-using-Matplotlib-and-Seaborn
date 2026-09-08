@@ -81,7 +81,7 @@ git clone https://github.com/sarhan-003/Data-Visualization-using-Matplotlib-and-
 cd Data-Visualization-using-Matplotlib-and-Seaborn
 ```
 
-### 3. Install Required Libraries
+### 3. Install Required Libraries are initial to download
 
 ```bash
 pip install matplotlib seaborn pandas numpy jupyter
